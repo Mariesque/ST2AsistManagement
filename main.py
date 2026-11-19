@@ -1,5 +1,5 @@
 print("Hello, World!")
 x = "Python"
-y = "is"
+y = "is not"
 z = "awesome"
 print(x, y, z)
